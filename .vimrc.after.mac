@@ -1,0 +1,4 @@
+"" vimrc.after
+
+" word wrap off
+:set nowrap
